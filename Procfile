@@ -1,0 +1,1 @@
+web: streamlit run text_summarizer_app.py 
