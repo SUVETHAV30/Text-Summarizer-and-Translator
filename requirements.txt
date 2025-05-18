@@ -1,0 +1,11 @@
+streamlit
+transformers
+torch
+deep-translator
+python-docx
+PyMuPDF
+textblob
+textstat
+langdetect
+pandas
+pyperclip 
